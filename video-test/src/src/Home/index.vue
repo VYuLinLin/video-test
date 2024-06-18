@@ -13,21 +13,17 @@ type VideoItem = {
 }
 
 const { videos } = data
-console.log(videos)
 let activeVideoItem = ref<VideoItem>(null)
-const changeActiveVideo = (item: VideoItem) => {
-  console.log(item, activeVideoItem)
-}
 </script>
 
 <template>
   <div class="home">
     <!-- 标题列表 -->
-    <TitleList v-model:value="activeVideoItem" :list="videos" @onChange="changeActiveVideo" />
+    <TitleList v-model:value="activeVideoItem" :list="videos" />
     <!-- 视频播放 -->
     <Player :value="activeVideoItem" />
     <!-- 推荐列表 -->
-    <RecommendList />
+    <RecommendList v-model:value="activeVideoItem" :list="videos" />
   </div>
 </template>
 
