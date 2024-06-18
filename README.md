@@ -1,5 +1,15 @@
 # video-test
 
+## 未完成部分说明：
+1. 主体功能完成
+2. 切换视频后，播放器组件播放未切换，还需调试
+3. 保存视频弹框未开发
+4. 推荐部分，样式需优化
+5. 底部置底悬浮部分未开发
+6. 本地vscode未配置ts的eslint提示校验，可能有部分错误
+
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup

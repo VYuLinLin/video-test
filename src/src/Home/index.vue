@@ -13,7 +13,8 @@ type VideoItem = {
 }
 
 const { videos } = data
-let activeVideoItem = ref<VideoItem>(null)
+let activeVideoItem = ref<VideoItem>(videos[0])
+
 </script>
 
 <template>

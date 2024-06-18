@@ -1,0 +1,58 @@
+{
+    "videos": [
+        {
+            "id": "1",
+            "title": "标题1",
+            "image": "https://img2.baidu.com/it/u=2016810572,58779371&fm=253&fmt=auto&app=120&f=JPEG?w=1422&h=800",
+            "video": "https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/hls/xgplayer-demo.m3u8"
+        },
+        {
+            "id": "2",
+            "title": "标题2",
+            "image": "https://img0.baidu.com/it/u=1945790247,3756311573&fm=253&fmt=auto&app=120&f=JPEG?w=1422&h=800",
+            "video": "https://sf1-cdn-tos.huoshanstatic.com/obj/media-fe/xgplayer_doc_video/hls/xgplayer-demo.m3u8"
+        },
+        {
+            "id": "3",
+            "title": "标题3",
+            "image": "https://img2.baidu.com/it/u=785451134,1796880672&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
+            "video": "http://stream2.ahtv.cn/jjsh/cd/live.m3u8"
+        },
+        {
+            "id": "4",
+            "title": "标题4",
+            "image": "https://img2.baidu.com/it/u=3864016536,2668327360&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
+            "video": "http://stream2.ahtv.cn/ahgj/fd/live.m3u8"
+        },
+        {
+            "id": "5",
+            "title": "标题5",
+            "image": "https://img0.baidu.com/it/u=3076763442,2439013102&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
+            "video": "https://m3u.haiwaikan.com/xm3u8/d30f81cf12682bdac819d14dc0b945bdabaa1bf6f391771dc0ca187982fc224e9921f11e97d0da21.m3u8"
+        },
+        {
+            "id": "6",
+            "title": "标题6",
+            "image": "https://img1.baidu.com/it/u=4115850701,4083339241&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
+            "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        },
+        {
+            "id": "7",
+            "title": "标题7",
+            "image": "https://img2.baidu.com/it/u=4014492258,3206545593&fm=253&fmt=auto&app=120&f=JPEG?w=889&h=500",
+            "video": "https://m3u.haiwaikan.com/xm3u8/87179e9173db39d9bf5d766685e9bd9d62e3e6e7e3bd3c3b0306eec4e1e8787b9921f11e97d0da21.m3u8"
+        },
+        {
+            "id": "8",
+            "title": "标题8",
+            "image": "https://img1.baidu.com/it/u=1959200387,917934336&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
+            "video": "https://m3u.haiwaikan.com/xm3u8/2e30aff0e15a86f1789f61bb79fc709b8458a039d2fb37e113015281d8d36b7f9921f11e97d0da21.m3u8"
+        },
+        {
+            "id": "9",
+            "title": "标题9",
+            "image": "https://img0.baidu.com/it/u=1039898441,1009323534&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
+            "video": "https://m3u.haiwaikan.com/xm3u8/c334c822c4fe79989266090024080c1e013f617b9eb98510880426c70ff7d2169921f11e97d0da21.m3u8"
+        }
+    ]
+}
